@@ -1,13 +1,14 @@
-body{
 
-   display: flex;
-   justify-content: center;
-   align-items: center;
-    min-height: 100vh;
-    background: #000666;
-    overflow: hidden;
-    font-family: sans-serif;
-}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     max-width: 100%; 
+     min-height: 100vh;
+     background: #000666;
+     overflow: hidden;
+     font-family: sans-serif;
+ }
 
 .giftcontainer{
     position: relative;
